@@ -27,12 +27,7 @@ function Parent() {
         bio="Mobile App Developer and tech blogger."
         image="https://randomuser.me/api/portraits/women/44.jpg"
       />
-      {/* <ProfileCard
-        name="Ethan Hunt"
-        age={35}
-        bio="Security specialist with a love for coding challenges."
-        image="https://randomuser.me/api/portraits/men/58.jpg"
-      /> */}
+   
     </div>
   );
 }
