@@ -1,5 +1,6 @@
 import React from "react";
 import ProfileCard from "./child"; 
+
 function Parent() {
   return (
     <div style={styles.container}>
@@ -27,8 +28,7 @@ function Parent() {
         bio="Mobile App Developer and tech blogger."
         image="https://randomuser.me/api/portraits/women/44.jpg"
       />
-   
-    </div>
+   </div>
   );
 }
 
@@ -38,8 +38,7 @@ const styles = {
     flexWrap: "wrap",
     justifyContent: "center",
     marginTop: "20px",
-    justifyContent: "space-around",
-  }
+  },
 };
 
 export default Parent;

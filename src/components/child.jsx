@@ -23,7 +23,7 @@ const styles = {
     width: "250px",
     textAlign: "center",
     margin: "15px",
-    boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
+    boxShadow: "0 4px 8px rgba(138, 129, 129, 0.1)",
     backgroundColor: "#f9f9f9"
   },
   image: {
